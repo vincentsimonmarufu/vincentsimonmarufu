@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vincent @vincentsimonmarufu
 - 👀 I’m interested in developing web and mobile applications
-- 🌱 I’m currently learning laravel and vue.js
+- 🌱 I’ve knowledge on PHP, Laravel, Vue.js, C# and ASP.net, .netcore, Writing Secure Api's, Angular for frontend
 - 💞️ I’m looking to collaborate on fullstack software projects of any kind
 - 📫 How to reach me ...
 
